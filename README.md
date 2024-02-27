@@ -1,3 +1,7 @@
+# Shezan's Bootstrap Practice
+
+This Bootstrap 5 class project was started on Monday Feb. 26, 2024. This project is by Shezan Samanani.
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
